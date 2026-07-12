@@ -1,0 +1,29 @@
+# Environment / secrets
+.env
+.env.*
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Vector store (regenerated from uploads)
+faiss_index/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+
+# Logs / runtime
+*.log
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
