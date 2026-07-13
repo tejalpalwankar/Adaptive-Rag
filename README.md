@@ -287,10 +287,6 @@ streamlit_app/            chat UI + backend client
 
 ---
 
-## License
-
-MIT
-
 ## Author
 
 Tejal Palwankar
